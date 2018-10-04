@@ -1,0 +1,16 @@
+PODS:
+  - Snorlax (0.1.0)
+
+DEPENDENCIES:
+  - Snorlax (from `../`)
+
+EXTERNAL SOURCES:
+  Snorlax:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Snorlax: 8a0a0ef63201c37ae119c434b9dfa2881d20d886
+
+PODFILE CHECKSUM: 89310d1fa90a936e952e3aad005956e84a4b2e64
+
+COCOAPODS: 1.5.3
